@@ -56,7 +56,7 @@ You can override the style using custom css:
 (Admin cp -> Appearance -> Custom Content -> Custom CSS/SASS).
 
 ### Grouped code
-Also added for the needs of our tutorials, it allows showing multiples languages with nice tabs. The syntax is a bit complex:
+Also added for the needs of our tutorials, it allows showing multiples languages with nice tabs. The syntax is a bit complex (without the \\):
 ```
 ===group
 \```python
